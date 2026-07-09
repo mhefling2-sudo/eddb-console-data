@@ -1,1 +1,762 @@
-
+[
+  {
+    "id": "725c",
+    "category": "BudgetDocs",
+    "docName": "Form 725 Purchase Request (Course)",
+    "courseRelated": true,
+    "template": "{CrsNum}_{SessionEvent}_Form-725-PurchaseRequest_{VendorName}_{ItemDescription}",
+    "variables": [
+      {
+        "token": "CrsNum",
+        "label": "Course Number",
+        "type": "course"
+      },
+      {
+        "token": "SessionEvent",
+        "label": "Session # or Event Name",
+        "type": "text"
+      },
+      {
+        "token": "VendorName",
+        "label": "Vendor Name",
+        "type": "text"
+      },
+      {
+        "token": "ItemDescription",
+        "label": "Item Description",
+        "type": "text"
+      }
+    ]
+  },
+  {
+    "id": "725nc",
+    "category": "BudgetDocs",
+    "docName": "Form 725 Purchase Request (Non-Course)",
+    "courseRelated": false,
+    "template": "{EventName}_{FY}_Form-725-PurchaseRequest_{VendorName}_{ItemDescription}",
+    "variables": [
+      {
+        "token": "EventName",
+        "label": "Event Name",
+        "type": "text"
+      },
+      {
+        "token": "FY",
+        "label": "Fiscal Year",
+        "type": "fy"
+      },
+      {
+        "token": "VendorName",
+        "label": "Vendor Name",
+        "type": "text"
+      },
+      {
+        "token": "ItemDescription",
+        "label": "Item Description",
+        "type": "text"
+      }
+    ]
+  },
+  {
+    "id": "593",
+    "category": "BudgetDocs",
+    "docName": "Form 593 Training Agent Cost Estimate",
+    "courseRelated": true,
+    "template": "{CrsNum}_{FY}_Form-593-TrainingAgentCostEstimate",
+    "variables": [
+      {
+        "token": "CrsNum",
+        "label": "Course Number",
+        "type": "course"
+      },
+      {
+        "token": "FY",
+        "label": "Fiscal Year",
+        "type": "fy"
+      }
+    ]
+  },
+  {
+    "id": "invc",
+    "category": "BudgetDocs",
+    "docName": "Invoice (Course)",
+    "courseRelated": true,
+    "template": "{CrsNum}_{SessionEvent}_PurchaseInvoice_{VendorName}_{ItemDescription}",
+    "variables": [
+      {
+        "token": "CrsNum",
+        "label": "Course Number",
+        "type": "course"
+      },
+      {
+        "token": "SessionEvent",
+        "label": "Session # or Event Name",
+        "type": "text"
+      },
+      {
+        "token": "VendorName",
+        "label": "Vendor Name",
+        "type": "text"
+      },
+      {
+        "token": "ItemDescription",
+        "label": "Item Description",
+        "type": "text"
+      }
+    ]
+  },
+  {
+    "id": "invnc",
+    "category": "BudgetDocs",
+    "docName": "Invoice (Non-Course)",
+    "courseRelated": false,
+    "template": "{EventName}_{FY}_PurchaseInvoice_{VendorName}_{ItemDescription}",
+    "variables": [
+      {
+        "token": "EventName",
+        "label": "Event Name",
+        "type": "text"
+      },
+      {
+        "token": "FY",
+        "label": "Fiscal Year",
+        "type": "fy"
+      },
+      {
+        "token": "VendorName",
+        "label": "Vendor Name",
+        "type": "text"
+      },
+      {
+        "token": "ItemDescription",
+        "label": "Item Description",
+        "type": "text"
+      }
+    ]
+  },
+  {
+    "id": "quotec",
+    "category": "BudgetDocs",
+    "docName": "Purchase Quote (Course)",
+    "courseRelated": true,
+    "template": "{CrsNum}_{SessionEvent}_PurchaseQuote_{VendorName}_{ItemDescription}",
+    "variables": [
+      {
+        "token": "CrsNum",
+        "label": "Course Number",
+        "type": "course"
+      },
+      {
+        "token": "SessionEvent",
+        "label": "Session # or Event Name",
+        "type": "text"
+      },
+      {
+        "token": "VendorName",
+        "label": "Vendor Name",
+        "type": "text"
+      },
+      {
+        "token": "ItemDescription",
+        "label": "Item Description",
+        "type": "text"
+      }
+    ]
+  },
+  {
+    "id": "quotenc",
+    "category": "BudgetDocs",
+    "docName": "Purchase Quote (Non-Course)",
+    "courseRelated": false,
+    "template": "{EventName}_{FY}_PurchaseQuote_{VendorName}_{ItemDescription}",
+    "variables": [
+      {
+        "token": "EventName",
+        "label": "Event Name",
+        "type": "text"
+      },
+      {
+        "token": "FY",
+        "label": "Fiscal Year",
+        "type": "fy"
+      },
+      {
+        "token": "VendorName",
+        "label": "Vendor Name",
+        "type": "text"
+      },
+      {
+        "token": "ItemDescription",
+        "label": "Item Description",
+        "type": "text"
+      }
+    ]
+  },
+  {
+    "id": "4091f",
+    "category": "Human Resource Files",
+    "docName": "4091 Timesheet Correction",
+    "courseRelated": false,
+    "template": "Form-4091-TimesheetCorrection_PPE-{PPEDate}_{LastName}",
+    "variables": [
+      {
+        "token": "PPEDate",
+        "label": "PPE Date",
+        "type": "date"
+      },
+      {
+        "token": "LastName",
+        "label": "ISS",
+        "type": "lastname"
+      }
+    ]
+  },
+  {
+    "id": "6033",
+    "category": "Human Resource Files",
+    "docName": "6033 Travel Comp Worksheet",
+    "courseRelated": false,
+    "template": "Form-6033-TravelCompWorksheet_PPE-{PPEDate}_{LastName}",
+    "variables": [
+      {
+        "token": "PPEDate",
+        "label": "PPE Date",
+        "type": "date"
+      },
+      {
+        "token": "LastName",
+        "label": "ISS",
+        "type": "lastname"
+      }
+    ]
+  },
+  {
+    "id": "traincert",
+    "category": "Human Resource Files",
+    "docName": "Training Certificate",
+    "courseRelated": false,
+    "template": "{EventName}_{FY}_TrainingCertificate_{CompletionDate}_{LastName}",
+    "variables": [
+      {
+        "token": "EventName",
+        "label": "Training Event Name",
+        "type": "text"
+      },
+      {
+        "token": "FY",
+        "label": "Fiscal Year",
+        "type": "fy"
+      },
+      {
+        "token": "CompletionDate",
+        "label": "Completion Date",
+        "type": "date"
+      },
+      {
+        "token": "LastName",
+        "label": "ISS",
+        "type": "lastname"
+      }
+    ]
+  },
+  {
+    "id": "2130",
+    "category": "Human Resource Files",
+    "docName": "2130 Travel Card SOU",
+    "courseRelated": false,
+    "template": "Form-2130-TravelCardSOU_{SignedDate}_{LastName}",
+    "variables": [
+      {
+        "token": "SignedDate",
+        "label": "Signed Date",
+        "type": "date"
+      },
+      {
+        "token": "LastName",
+        "label": "ISS",
+        "type": "lastname"
+      }
+    ]
+  },
+  {
+    "id": "resume",
+    "category": "Human Resource Files",
+    "docName": "Resume",
+    "courseRelated": false,
+    "template": "Resume_{SubmittedDate}_{LastName}",
+    "variables": [
+      {
+        "token": "SubmittedDate",
+        "label": "Date Submitted",
+        "type": "date"
+      },
+      {
+        "token": "LastName",
+        "label": "ISS",
+        "type": "lastname"
+      }
+    ]
+  },
+  {
+    "id": "soi",
+    "category": "Instructional Products",
+    "docName": "Schedule of Instruction (SOI)",
+    "courseRelated": true,
+    "template": "{CrsNum}_{FY}_ScheduleOfInstruction",
+    "variables": [
+      {
+        "token": "CrsNum",
+        "label": "Course Number",
+        "type": "course"
+      },
+      {
+        "token": "FY",
+        "label": "Fiscal Year",
+        "type": "fy"
+      }
+    ]
+  },
+  {
+    "id": "lessonpresi",
+    "category": "Instructional Products",
+    "docName": "Lesson Presentation (Instructor)",
+    "courseRelated": true,
+    "template": "{CrsNum}_{FY}_Lesson-{LessonNum}-{LessonName}-Instructor",
+    "variables": [
+      {
+        "token": "CrsNum",
+        "label": "Course Number",
+        "type": "course"
+      },
+      {
+        "token": "FY",
+        "label": "Fiscal Year",
+        "type": "fy"
+      },
+      {
+        "token": "LessonNum",
+        "label": "Lesson Number",
+        "type": "text"
+      },
+      {
+        "token": "LessonName",
+        "label": "Lesson Name",
+        "type": "text"
+      }
+    ]
+  },
+  {
+    "id": "lessonpress",
+    "category": "Instructional Products",
+    "docName": "Lesson Presentation (Student)",
+    "courseRelated": true,
+    "template": "{CrsNum}_{FY}_Lesson-{LessonNum}-{LessonName}-Student",
+    "variables": [
+      {
+        "token": "CrsNum",
+        "label": "Course Number",
+        "type": "course"
+      },
+      {
+        "token": "FY",
+        "label": "Fiscal Year",
+        "type": "fy"
+      },
+      {
+        "token": "LessonNum",
+        "label": "Lesson Number",
+        "type": "text"
+      },
+      {
+        "token": "LessonName",
+        "label": "Lesson Name",
+        "type": "text"
+      }
+    ]
+  },
+  {
+    "id": "4713acc",
+    "category": "Instructional Products",
+    "docName": "4713 Eval of Proposed Training (Accepted into Prospect)",
+    "courseRelated": true,
+    "template": "{CrsNum}_{CourseName}_Form-4713-EvalProposedTraining_{DateSigned}",
+    "variables": [
+      {
+        "token": "CrsNum",
+        "label": "Course Number",
+        "type": "course"
+      },
+      {
+        "token": "CourseName",
+        "label": "Course Name",
+        "type": "text"
+      },
+      {
+        "token": "DateSigned",
+        "label": "Date Part V Signed",
+        "type": "date"
+      }
+    ]
+  },
+  {
+    "id": "4713prop",
+    "category": "Instructional Products",
+    "docName": "4713 Eval of Proposed Training (Proposed for Prospect)",
+    "courseRelated": false,
+    "template": "{ProposedName}_Form-4713-EvalProposedTraining_{DateSigned}",
+    "variables": [
+      {
+        "token": "ProposedName",
+        "label": "Proposed Course Name",
+        "type": "text"
+      },
+      {
+        "token": "DateSigned",
+        "label": "Date Part III Signed",
+        "type": "date"
+      }
+    ]
+  },
+  {
+    "id": "4712",
+    "category": "Instructional Products",
+    "docName": "4712 Annual Training Needs Verification",
+    "courseRelated": true,
+    "template": "{CrsNum}_{FY}_Form-4712-AnnualTrainingNeedsVerification",
+    "variables": [
+      {
+        "token": "CrsNum",
+        "label": "Course Number",
+        "type": "course"
+      },
+      {
+        "token": "FY",
+        "label": "Fiscal Year",
+        "type": "fy"
+      }
+    ]
+  },
+  {
+    "id": "syllabus",
+    "category": "Instructional Products",
+    "docName": "Syllabus",
+    "courseRelated": true,
+    "template": "{CrsNum}_{FY}_CourseSyllabus",
+    "variables": [
+      {
+        "token": "CrsNum",
+        "label": "Course Number",
+        "type": "course"
+      },
+      {
+        "token": "FY",
+        "label": "Fiscal Year",
+        "type": "fy"
+      }
+    ]
+  },
+  {
+    "id": "lessonplan",
+    "category": "Instructional Products",
+    "docName": "Lesson Plan",
+    "courseRelated": true,
+    "template": "{CrsNum}_LessonPlan_{LessonNum}_{LessonName}_V{VersionNum}",
+    "variables": [
+      {
+        "token": "CrsNum",
+        "label": "Course Number",
+        "type": "course"
+      },
+      {
+        "token": "LessonNum",
+        "label": "Lesson Number",
+        "type": "text"
+      },
+      {
+        "token": "LessonName",
+        "label": "Lesson Name",
+        "type": "text"
+      },
+      {
+        "token": "VersionNum",
+        "label": "Version Number",
+        "type": "text"
+      }
+    ]
+  },
+  {
+    "id": "pretest",
+    "category": "Instructional Products",
+    "docName": "Pre Test",
+    "courseRelated": true,
+    "template": "{CrsNum}_PreTest",
+    "variables": [
+      {
+        "token": "CrsNum",
+        "label": "Course Number",
+        "type": "course"
+      }
+    ]
+  },
+  {
+    "id": "pretestk",
+    "category": "Instructional Products",
+    "docName": "Pre Test w Key",
+    "courseRelated": true,
+    "template": "{CrsNum}_PreTest-wKey",
+    "variables": [
+      {
+        "token": "CrsNum",
+        "label": "Course Number",
+        "type": "course"
+      }
+    ]
+  },
+  {
+    "id": "postA",
+    "category": "Instructional Products",
+    "docName": "Post Test A",
+    "courseRelated": true,
+    "template": "{CrsNum}_PostTestA",
+    "variables": [
+      {
+        "token": "CrsNum",
+        "label": "Course Number",
+        "type": "course"
+      }
+    ]
+  },
+  {
+    "id": "postAk",
+    "category": "Instructional Products",
+    "docName": "Post Test A w Key",
+    "courseRelated": true,
+    "template": "{CrsNum}_PostTestA-wKey",
+    "variables": [
+      {
+        "token": "CrsNum",
+        "label": "Course Number",
+        "type": "course"
+      }
+    ]
+  },
+  {
+    "id": "postB",
+    "category": "Instructional Products",
+    "docName": "Post Test B",
+    "courseRelated": true,
+    "template": "{CrsNum}_PostTestB",
+    "variables": [
+      {
+        "token": "CrsNum",
+        "label": "Course Number",
+        "type": "course"
+      }
+    ]
+  },
+  {
+    "id": "postBk",
+    "category": "Instructional Products",
+    "docName": "Post Test B w Key",
+    "courseRelated": true,
+    "template": "{CrsNum}_PostTestB-wKey",
+    "variables": [
+      {
+        "token": "CrsNum",
+        "label": "Course Number",
+        "type": "course"
+      }
+    ]
+  },
+  {
+    "id": "exercise",
+    "category": "Instructional Products",
+    "docName": "Exercise",
+    "courseRelated": true,
+    "template": "{CrsNum}_Exercise-{ExerciseNum}-{ExerciseName}",
+    "variables": [
+      {
+        "token": "CrsNum",
+        "label": "Course Number",
+        "type": "course"
+      },
+      {
+        "token": "ExerciseNum",
+        "label": "Exercise Number",
+        "type": "text"
+      },
+      {
+        "token": "ExerciseName",
+        "label": "Exercise Name",
+        "type": "text"
+      }
+    ]
+  },
+  {
+    "id": "exercisek",
+    "category": "Instructional Products",
+    "docName": "Exercise w Key",
+    "courseRelated": true,
+    "template": "{CrsNum}_Exercise-{ExerciseNum}-{ExerciseName}-wKey",
+    "variables": [
+      {
+        "token": "CrsNum",
+        "label": "Course Number",
+        "type": "course"
+      },
+      {
+        "token": "ExerciseNum",
+        "label": "Exercise Number",
+        "type": "text"
+      },
+      {
+        "token": "ExerciseName",
+        "label": "Exercise Name",
+        "type": "text"
+      }
+    ]
+  },
+  {
+    "id": "quiz",
+    "category": "Instructional Products",
+    "docName": "Quiz",
+    "courseRelated": true,
+    "template": "{CrsNum}_Quiz_{QuizName}",
+    "variables": [
+      {
+        "token": "CrsNum",
+        "label": "Course Number",
+        "type": "course"
+      },
+      {
+        "token": "QuizName",
+        "label": "Quiz Name",
+        "type": "text"
+      }
+    ]
+  },
+  {
+    "id": "833",
+    "category": "Instructional Products",
+    "docName": "833 Lesson Design",
+    "courseRelated": true,
+    "template": "{CrsNum}_Form-833-LessonDesign_{DateSigned}",
+    "variables": [
+      {
+        "token": "CrsNum",
+        "label": "Course Number",
+        "type": "course"
+      },
+      {
+        "token": "DateSigned",
+        "label": "Date Signed by BC",
+        "type": "date"
+      }
+    ]
+  },
+  {
+    "id": "assesslinks",
+    "category": "Instructional Products",
+    "docName": "Assessment Links",
+    "courseRelated": true,
+    "template": "{CrsNum}_AssessmentLinks",
+    "variables": [
+      {
+        "token": "CrsNum",
+        "label": "Course Number",
+        "type": "course"
+      }
+    ]
+  },
+  {
+    "id": "errata",
+    "category": "Admin",
+    "docName": "Course Errata",
+    "courseRelated": true,
+    "template": "{CrsNum}_CourseChangeLog-Errata",
+    "variables": [
+      {
+        "token": "CrsNum",
+        "label": "Course Number",
+        "type": "course"
+      }
+    ]
+  },
+  {
+    "id": "mfrc",
+    "category": "Admin",
+    "docName": "MFR (Course)",
+    "courseRelated": true,
+    "template": "MemoForRecord_{CrsNum}_{Subject}_{DateSigned}_{LastName}",
+    "variables": [
+      {
+        "token": "CrsNum",
+        "label": "Course Number",
+        "type": "course"
+      },
+      {
+        "token": "Subject",
+        "label": "Subject",
+        "type": "text"
+      },
+      {
+        "token": "DateSigned",
+        "label": "Date Signed",
+        "type": "date"
+      },
+      {
+        "token": "LastName",
+        "label": "Signed By",
+        "type": "lastname"
+      }
+    ]
+  },
+  {
+    "id": "mfrnc",
+    "category": "Admin",
+    "docName": "MFR (Non-Course)",
+    "courseRelated": false,
+    "template": "MemoForRecord_{Subject}_{DateSigned}_{LastName}",
+    "variables": [
+      {
+        "token": "Subject",
+        "label": "Subject",
+        "type": "text"
+      },
+      {
+        "token": "DateSigned",
+        "label": "Date Signed",
+        "type": "date"
+      },
+      {
+        "token": "LastName",
+        "label": "Signed By",
+        "type": "lastname"
+      }
+    ]
+  },
+  {
+    "id": "genadmin",
+    "category": "General Admin",
+    "docName": "All Types",
+    "courseRelated": false,
+    "template": "{ItemName}_{DateSigned}_{LastName}",
+    "variables": [
+      {
+        "token": "ItemName",
+        "label": "Item Name",
+        "type": "text"
+      },
+      {
+        "token": "DateSigned",
+        "label": "Date Signed",
+        "type": "date"
+      },
+      {
+        "token": "LastName",
+        "label": "Signed By",
+        "type": "lastname"
+      }
+    ]
+  }
+]
