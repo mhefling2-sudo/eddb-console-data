@@ -1,1 +1,1498 @@
-[]
+[
+  {
+    "num": "001",
+    "title": "Cost Reimbursement",
+    "iss": "Anthony",
+    "ts": "Steve",
+    "proponent": "Becca Vandine",
+    "cop": ""
+  },
+  {
+    "num": "004",
+    "title": "Architect-Engineer Contracting",
+    "iss": "Anthony",
+    "ts": "Neal",
+    "proponent": "Debbie Castens",
+    "cop": ""
+  },
+  {
+    "num": "006",
+    "title": "Fire Protection Engineering Basic",
+    "iss": "Anthony",
+    "ts": "Shay",
+    "proponent": "Vu Nguyen",
+    "cop": ""
+  },
+  {
+    "num": "007",
+    "title": "Real Estate Mgt and Disposal Fundamentals",
+    "iss": "Amy",
+    "ts": "Shay",
+    "proponent": "Enrique Godinez",
+    "cop": ""
+  },
+  {
+    "num": "009",
+    "title": "Corrosion Control",
+    "iss": "Jim",
+    "ts": "Shay",
+    "proponent": "Shane Nieukirk",
+    "cop": ""
+  },
+  {
+    "num": "010",
+    "title": "Civil Works Program Development",
+    "iss": "Bruce",
+    "ts": "Shay",
+    "proponent": "Eddie Durant",
+    "cop": ""
+  },
+  {
+    "num": "011",
+    "title": "Coastal Process Fundamentals",
+    "iss": "Amy",
+    "ts": "Erica",
+    "proponent": "Peter Tereszkiewicz",
+    "cop": ""
+  },
+  {
+    "num": "012",
+    "title": "Finance and Accounting",
+    "iss": "Taneya",
+    "ts": "Erica",
+    "proponent": "Lauren Morrow",
+    "cop": ""
+  },
+  {
+    "num": "013",
+    "title": "Coastal Eng Proj Design",
+    "iss": "Shaz",
+    "ts": "Gladys",
+    "proponent": "Sean Smith",
+    "cop": ""
+  },
+  {
+    "num": "014",
+    "title": "Accident Investigation",
+    "iss": "Amy",
+    "ts": "Vacant",
+    "proponent": "Jason Walsh",
+    "cop": ""
+  },
+  {
+    "num": "015",
+    "title": "High-Altitude EMP Protection",
+    "iss": "Jim",
+    "ts": "Sherry",
+    "proponent": "Raul Alonso",
+    "cop": ""
+  },
+  {
+    "num": "021",
+    "title": "Concrete Fundamentals",
+    "iss": "Brittany",
+    "ts": "Neal",
+    "proponent": "Jake Fall",
+    "cop": ""
+  },
+  {
+    "num": "024",
+    "title": "Cost Engineering for Civil Works",
+    "iss": "Bruce",
+    "ts": "Gladys",
+    "proponent": "Mukesh Kumar",
+    "cop": ""
+  },
+  {
+    "num": "026",
+    "title": "Inst and Perform Monitoring",
+    "iss": "Brittany",
+    "ts": "Kelly",
+    "proponent": "Georgette Hlepas",
+    "cop": ""
+  },
+  {
+    "num": "027",
+    "title": "Seismic Design",
+    "iss": "Brittany",
+    "ts": "Brittany",
+    "proponent": "Hien Duong",
+    "cop": ""
+  },
+  {
+    "num": "028",
+    "title": "Dam Safety",
+    "iss": "Vacant 2",
+    "ts": "Brian",
+    "proponent": "Jacob Davis",
+    "cop": ""
+  },
+  {
+    "num": "029",
+    "title": "Construction Quality Management",
+    "iss": "Vacant 2",
+    "ts": "Steve",
+    "proponent": "Andrea Hinkle",
+    "cop": ""
+  },
+  {
+    "num": "030",
+    "title": "Levee Safety Fundamentals",
+    "iss": "Taneya",
+    "ts": "Brian",
+    "proponent": "Rich Varuso",
+    "cop": ""
+  },
+  {
+    "num": "032",
+    "title": "Crane Safety",
+    "iss": "Vacant 2",
+    "ts": "Brandon",
+    "proponent": "Marty Werdebaugh",
+    "cop": ""
+  },
+  {
+    "num": "033",
+    "title": "Fire Sprinkler Systems Design",
+    "iss": "Anthony",
+    "ts": "Shay",
+    "proponent": "Vu Nguyen",
+    "cop": ""
+  },
+  {
+    "num": "035",
+    "title": "Working Diver",
+    "iss": "Keith",
+    "ts": "Brian",
+    "proponent": "Troy Larson",
+    "cop": ""
+  },
+  {
+    "num": "036",
+    "title": "Levee Inspection",
+    "iss": "Taneya",
+    "ts": "Brian",
+    "proponent": "Rich Varuso",
+    "cop": ""
+  },
+  {
+    "num": "037",
+    "title": "USACE Dive Supervisor",
+    "iss": "Keith",
+    "ts": "Brian",
+    "proponent": "Troy Larson",
+    "cop": ""
+  },
+  {
+    "num": "040",
+    "title": "Earthwork Construction QV",
+    "iss": "Brittany",
+    "ts": "Kelly",
+    "proponent": "Georgette Hlepas",
+    "cop": ""
+  },
+  {
+    "num": "042",
+    "title": "Electrical Quality Verification",
+    "iss": "Jim",
+    "ts": "Shay",
+    "proponent": "Shane Nieukirk",
+    "cop": ""
+  },
+  {
+    "num": "049",
+    "title": "Continuing Authorities Program",
+    "iss": "Anthony",
+    "ts": "Steve",
+    "proponent": "Amy Babey",
+    "cop": ""
+  },
+  {
+    "num": "050",
+    "title": "Maintenance and Rehabilitation Of Pavements",
+    "iss": "Brittany",
+    "ts": "Neal",
+    "proponent": "Jake Fall",
+    "cop": ""
+  },
+  {
+    "num": "051",
+    "title": "Building Information Modeling for Managers",
+    "iss": "Taneya",
+    "ts": "Sherry",
+    "proponent": "Mack McCarty",
+    "cop": ""
+  },
+  {
+    "num": "054",
+    "title": "General Construction QV",
+    "iss": "Amy",
+    "ts": "Gladys",
+    "proponent": "Mark Pratt",
+    "cop": ""
+  },
+  {
+    "num": "056",
+    "title": "Hydrographic Survey Techniques",
+    "iss": "Taneya",
+    "ts": "Sherry",
+    "proponent": "Mack McCarty",
+    "cop": ""
+  },
+  {
+    "num": "058",
+    "title": "Statistical Methods in Hydrology",
+    "iss": "Shaz",
+    "ts": "Gladys",
+    "proponent": "Sean Smith",
+    "cop": ""
+  },
+  {
+    "num": "059",
+    "title": "Operational Cond Assess For Nav and Flood",
+    "iss": "Bruce",
+    "ts": "",
+    "proponent": "Tyler Baggett",
+    "cop": ""
+  },
+  {
+    "num": "063",
+    "title": "30 Hour Safety Course",
+    "iss": "Vacant 2",
+    "ts": "Vacant",
+    "proponent": "Willie Eggleston",
+    "cop": ""
+  },
+  {
+    "num": "065",
+    "title": "HEC-RAS 2025",
+    "iss": "Shaz",
+    "ts": "Vacant",
+    "proponent": "Sean Smith",
+    "cop": ""
+  },
+  {
+    "num": "068",
+    "title": "HVAC Testing and Balancing QV",
+    "iss": "Brenda",
+    "ts": "Shay",
+    "proponent": "Tim Gordon",
+    "cop": ""
+  },
+  {
+    "num": "069",
+    "title": "HVAC Control Systems Design Intro",
+    "iss": "Vacant 2",
+    "ts": "Vacant",
+    "proponent": "Chris Battisti",
+    "cop": ""
+  },
+  {
+    "num": "071",
+    "title": "HVAC Control Systems Design Advanced",
+    "iss": "Vacant 2",
+    "ts": "Vacant",
+    "proponent": "Chris Battisti",
+    "cop": ""
+  },
+  {
+    "num": "072",
+    "title": "Interpretive Services",
+    "iss": "Anthony",
+    "ts": "Steve",
+    "proponent": "Samantha Ferrare",
+    "cop": ""
+  },
+  {
+    "num": "073",
+    "title": "Real Estate Mgt and Disposal Advanced",
+    "iss": "Amy",
+    "ts": "Shay",
+    "proponent": "Enrique Godinez",
+    "cop": ""
+  },
+  {
+    "num": "074",
+    "title": "Mechanical Quality Verification",
+    "iss": "Brenda",
+    "ts": "Shay",
+    "proponent": "Tim Gordon",
+    "cop": ""
+  },
+  {
+    "num": "075",
+    "title": "Master Planning Principles",
+    "iss": "Vacant 2",
+    "ts": "Brandon",
+    "proponent": "Edmond Gauvreau",
+    "cop": ""
+  },
+  {
+    "num": "077",
+    "title": "Planning Essentials",
+    "iss": "Amy",
+    "ts": "Erica",
+    "proponent": "Nancy Brighton",
+    "cop": ""
+  },
+  {
+    "num": "078",
+    "title": "National Electrical Code",
+    "iss": "Jim",
+    "ts": "Shay",
+    "proponent": "Dawn Carney",
+    "cop": ""
+  },
+  {
+    "num": "079",
+    "title": "Real Estate Acquisition Fundamentals",
+    "iss": "Amy",
+    "ts": "Shay",
+    "proponent": "Enrique Godinez",
+    "cop": ""
+  },
+  {
+    "num": "080",
+    "title": "Construction Schedule Performance Management",
+    "iss": "Anthony",
+    "ts": "Gladys",
+    "proponent": "Mackenzie Searle",
+    "cop": ""
+  },
+  {
+    "num": "081",
+    "title": "Floating Plant Safety",
+    "iss": "Keith",
+    "ts": "Brian",
+    "proponent": "Troy Larson",
+    "cop": ""
+  },
+  {
+    "num": "082",
+    "title": "AI for USACE",
+    "iss": "Jim",
+    "ts": "Steve",
+    "proponent": "Matthew Parks",
+    "cop": ""
+  },
+  {
+    "num": "084",
+    "title": "Paint Coatings and QV",
+    "iss": "Brenda",
+    "ts": "Sherry",
+    "proponent": "Jennifer Henry",
+    "cop": ""
+  },
+  {
+    "num": "086",
+    "title": "USACE Civil Works Project Development Process",
+    "iss": "Amy",
+    "ts": "Erica",
+    "proponent": "Stuart McLean",
+    "cop": ""
+  },
+  {
+    "num": "088",
+    "title": "Project Management Mil Prog",
+    "iss": "Jim",
+    "ts": "Erica",
+    "proponent": "Caitlin Slattery",
+    "cop": ""
+  },
+  {
+    "num": "089",
+    "title": "Services Contracting",
+    "iss": "Anthony",
+    "ts": "Steve",
+    "proponent": "Becca Vandine",
+    "cop": ""
+  },
+  {
+    "num": "091",
+    "title": "Public Involvement Communication",
+    "iss": "Vacant 1",
+    "ts": "Brandon",
+    "proponent": "Stacy Langsdale",
+    "cop": ""
+  },
+  {
+    "num": "093",
+    "title": "UAS Basic Qualification",
+    "iss": "Bruce",
+    "ts": "Brian",
+    "proponent": "Christopher Kernan",
+    "cop": ""
+  },
+  {
+    "num": "098",
+    "title": "Reservoir System Analysis",
+    "iss": "Shaz",
+    "ts": "Gladys",
+    "proponent": "Sean Smith",
+    "cop": ""
+  },
+  {
+    "num": "100",
+    "title": "Regulatory Introduction",
+    "iss": "Taneya",
+    "ts": "Brandon",
+    "proponent": "Linda Speerstra",
+    "cop": ""
+  },
+  {
+    "num": "101",
+    "title": "Econ Analysis Mil",
+    "iss": "Anthony",
+    "ts": "Brandon",
+    "proponent": "Donna Smigel",
+    "cop": ""
+  },
+  {
+    "num": "104",
+    "title": "Risk Communication and Public Participation",
+    "iss": "Vacant 1",
+    "ts": "Brandon",
+    "proponent": "Stacy Langsdale",
+    "cop": ""
+  },
+  {
+    "num": "106",
+    "title": "Generator System Design and QV",
+    "iss": "Jim",
+    "ts": "Erica",
+    "proponent": "Nic Ivy",
+    "cop": ""
+  },
+  {
+    "num": "110",
+    "title": "Value Engineering",
+    "iss": "Shaz",
+    "ts": "Gladys",
+    "proponent": "Mandy Bianchini",
+    "cop": ""
+  },
+  {
+    "num": "111",
+    "title": "Geotechnical Engineering and Geology Fundamentals",
+    "iss": "Taneya",
+    "ts": "Neal",
+    "proponent": "April Fontaine",
+    "cop": ""
+  },
+  {
+    "num": "114",
+    "title": "Steady Flow w HEC RAS",
+    "iss": "Shaz",
+    "ts": "Gladys",
+    "proponent": "Sean Smith",
+    "cop": ""
+  },
+  {
+    "num": "115",
+    "title": "Pavement Evaluation and Design",
+    "iss": "Brittany",
+    "ts": "Neal",
+    "proponent": "Jake Fall",
+    "cop": ""
+  },
+  {
+    "num": "116",
+    "title": "Welding Quality Verification",
+    "iss": "Brittany",
+    "ts": "Brian",
+    "proponent": "Hien Duong",
+    "cop": ""
+  },
+  {
+    "num": "118",
+    "title": "Dredge Cost Estimating",
+    "iss": "Bruce",
+    "ts": "Gladys",
+    "proponent": "Mukesh Kumar",
+    "cop": ""
+  },
+  {
+    "num": "119",
+    "title": "O&M Service Contracts",
+    "iss": "Bruce",
+    "ts": "Brandon",
+    "proponent": "Timothy Dunn",
+    "cop": ""
+  },
+  {
+    "num": "121",
+    "title": "Real Estate Acquisition Advanced",
+    "iss": "Amy",
+    "ts": "Shay",
+    "proponent": "Enrique Godinez",
+    "cop": ""
+  },
+  {
+    "num": "123",
+    "title": "Flood Frequency Analysis",
+    "iss": "Shaz",
+    "ts": "Gladys",
+    "proponent": "Sean Smith",
+    "cop": ""
+  },
+  {
+    "num": "126",
+    "title": "Building Air Barriers and Pressure Testing",
+    "iss": "Vacant 1",
+    "ts": "Kelly",
+    "proponent": "Ryan Murphy",
+    "cop": ""
+  },
+  {
+    "num": "143",
+    "title": "Project Scheduling Fundamentals",
+    "iss": "Brittany",
+    "ts": "Kelly",
+    "proponent": "Dusty Carroll",
+    "cop": ""
+  },
+  {
+    "num": "144",
+    "title": "Real Estate Project Mgt and Control",
+    "iss": "Amy",
+    "ts": "Shay",
+    "proponent": "Enrique Godinez",
+    "cop": ""
+  },
+  {
+    "num": "147",
+    "title": "Visitor Assistance Natural Resource Management",
+    "iss": "Vacant 1",
+    "ts": "Erica",
+    "proponent": "Heath Kruger",
+    "cop": ""
+  },
+  {
+    "num": "152",
+    "title": "Water Mngmt w DSSVUE",
+    "iss": "Shaz",
+    "ts": "Gladys",
+    "proponent": "Sean Smith",
+    "cop": ""
+  },
+  {
+    "num": "153",
+    "title": "Introduction to Data Analysis",
+    "iss": "Keith",
+    "ts": "Sherry",
+    "proponent": "Anthony Sulpizio",
+    "cop": ""
+  },
+  {
+    "num": "155",
+    "title": "Real-Time Water Management",
+    "iss": "Shaz",
+    "ts": "Gladys",
+    "proponent": "Sean Smith",
+    "cop": ""
+  },
+  {
+    "num": "161",
+    "title": "Ecosystem Restoration Hydrologic Analysis",
+    "iss": "Shaz",
+    "ts": "Gladys",
+    "proponent": "Sean Smith",
+    "cop": ""
+  },
+  {
+    "num": "162",
+    "title": "Welding Design",
+    "iss": "Brittany",
+    "ts": "Brian",
+    "proponent": "Hien Duong",
+    "cop": ""
+  },
+  {
+    "num": "164",
+    "title": "Water and The Watershed",
+    "iss": "Shaz",
+    "ts": "Gladys",
+    "proponent": "Sean Smith",
+    "cop": ""
+  },
+  {
+    "num": "167",
+    "title": "GIS Intermediate",
+    "iss": "Taneya",
+    "ts": "Sherry",
+    "proponent": "Jacob Watts",
+    "cop": ""
+  },
+  {
+    "num": "169",
+    "title": "Environmental Impact Assessment",
+    "iss": "Jim",
+    "ts": "Neal",
+    "proponent": "Deborah Scerno",
+    "cop": ""
+  },
+  {
+    "num": "170",
+    "title": "Environmental Laws and Regulations",
+    "iss": "Anthony",
+    "ts": "Brandon",
+    "proponent": "Lance Wood",
+    "cop": ""
+  },
+  {
+    "num": "171",
+    "title": "Environ Compliance Assessment",
+    "iss": "Anthony",
+    "ts": "Vacant",
+    "proponent": "David Sperry",
+    "cop": ""
+  },
+  {
+    "num": "172",
+    "title": "Boat Operator License Examiner",
+    "iss": "Keith",
+    "ts": "Brian",
+    "proponent": "Troy Larson",
+    "cop": ""
+  },
+  {
+    "num": "175",
+    "title": "Dive Safety Administration",
+    "iss": "Keith",
+    "ts": "Brian",
+    "proponent": "Troy Larson",
+    "cop": ""
+  },
+  {
+    "num": "178",
+    "title": "Hydrologic Modeling With HEC-HMS",
+    "iss": "Shaz",
+    "ts": "Gladys",
+    "proponent": "Sean Smith",
+    "cop": ""
+  },
+  {
+    "num": "180",
+    "title": "Estimating for Construction Modifications",
+    "iss": "Anthony",
+    "ts": "Steve",
+    "proponent": "Becca Vandine",
+    "cop": ""
+  },
+  {
+    "num": "181",
+    "title": "Cost Estimating Basics",
+    "iss": "Bruce",
+    "ts": "Gladys",
+    "proponent": "Mukesh Kumar",
+    "cop": ""
+  },
+  {
+    "num": "182",
+    "title": "ACO/PCO Contracting Officers Course",
+    "iss": "Amy",
+    "ts": "Brian",
+    "proponent": "Adam Hall",
+    "cop": ""
+  },
+  {
+    "num": "183",
+    "title": "Source Selection",
+    "iss": "Taneya",
+    "ts": "Erica",
+    "proponent": "Jonathan Todd",
+    "cop": ""
+  },
+  {
+    "num": "185",
+    "title": "Construction Contract Specifications",
+    "iss": "Vacant 2",
+    "ts": "Steve",
+    "proponent": "Jansen Moon",
+    "cop": ""
+  },
+  {
+    "num": "187",
+    "title": "GPS for GIS Applications",
+    "iss": "Taneya",
+    "ts": "Neal",
+    "proponent": "Jacob Watts",
+    "cop": ""
+  },
+  {
+    "num": "188",
+    "title": "Unsteady Flow w HEC RAS",
+    "iss": "Shaz",
+    "ts": "Gladys",
+    "proponent": "Sean Smith",
+    "cop": ""
+  },
+  {
+    "num": "192",
+    "title": "Wetland Stream Ecology Fundamentals",
+    "iss": "Keith",
+    "ts": "Brandon",
+    "proponent": "Jesse Granet",
+    "cop": ""
+  },
+  {
+    "num": "196",
+    "title": "Geospatial Imagery and Remote Sensing",
+    "iss": "Taneya",
+    "ts": "Sherry",
+    "proponent": "Jacob Watts",
+    "cop": ""
+  },
+  {
+    "num": "202",
+    "title": "Control System Design for Civil Works",
+    "iss": "Jim",
+    "ts": "Vacant",
+    "proponent": "Shane Nieukirk",
+    "cop": ""
+  },
+  {
+    "num": "203",
+    "title": "GPS Surveying and Advanced Processing",
+    "iss": "Taneya",
+    "ts": "Sherry",
+    "proponent": "Mack McCarty",
+    "cop": ""
+  },
+  {
+    "num": "205",
+    "title": "GIS Introduction",
+    "iss": "Taneya",
+    "ts": "Sherry",
+    "proponent": "Jacob Watts",
+    "cop": ""
+  },
+  {
+    "num": "208",
+    "title": "Quality Management for Engineering",
+    "iss": "Taneya",
+    "ts": "Shay",
+    "proponent": "Martin Borger",
+    "cop": ""
+  },
+  {
+    "num": "209",
+    "title": "Introduction To Economic Risk Assessment",
+    "iss": "Shaz",
+    "ts": "Gladys",
+    "proponent": "Sean Smith",
+    "cop": ""
+  },
+  {
+    "num": "210",
+    "title": "Flood Risk Management Studies Adv",
+    "iss": "Bruce",
+    "ts": "Brittany",
+    "proponent": "Susan Werning",
+    "cop": ""
+  },
+  {
+    "num": "211",
+    "title": "Dredging Contract Administration",
+    "iss": "Vacant 1",
+    "ts": "Brandon",
+    "proponent": "Keith King",
+    "cop": ""
+  },
+  {
+    "num": "215",
+    "title": "30 Hr Construction Safety for USACE",
+    "iss": "Amy",
+    "ts": "Brian",
+    "proponent": "Jason Walsh",
+    "cop": ""
+  },
+  {
+    "num": "218",
+    "title": "Civil Design for Planning",
+    "iss": "Shaz",
+    "ts": "Gladys",
+    "proponent": "Sean Smith",
+    "cop": ""
+  },
+  {
+    "num": "220",
+    "title": "Cost Risk Analysis Fundamentals",
+    "iss": "Bruce",
+    "ts": "Gladys",
+    "proponent": "Mukesh Kumar",
+    "cop": ""
+  },
+  {
+    "num": "223",
+    "title": "Hazardous Waste Manifest for DOT Certification",
+    "iss": "Vacant 1",
+    "ts": "Sherry",
+    "proponent": "Mary Mangenot",
+    "cop": ""
+  },
+  {
+    "num": "224",
+    "title": "Strategic Stakeholder Engagement",
+    "iss": "Brittany",
+    "ts": "Gladys",
+    "proponent": "Tyler White",
+    "cop": ""
+  },
+  {
+    "num": "226",
+    "title": "Hazardous Waste Generation Management",
+    "iss": "Vacant 1",
+    "ts": "Sherry",
+    "proponent": "Mary Mangenot",
+    "cop": ""
+  },
+  {
+    "num": "227",
+    "title": "Medical Construction Program Execution",
+    "iss": "Shaz",
+    "ts": "Erica",
+    "proponent": "Gary Prediger",
+    "cop": ""
+  },
+  {
+    "num": "235",
+    "title": "Safety For Supervisors",
+    "iss": "Amy",
+    "ts": "Vacant",
+    "proponent": "Jason Walsh",
+    "cop": ""
+  },
+  {
+    "num": "236",
+    "title": "Safety Management for Supervisors",
+    "iss": "Amy",
+    "ts": "Brian",
+    "proponent": "Jason Walsh",
+    "cop": ""
+  },
+  {
+    "num": "237",
+    "title": "Fall Protection Competent Person",
+    "iss": "Amy",
+    "ts": "Brian",
+    "proponent": "Jason Walsh",
+    "cop": ""
+  },
+  {
+    "num": "244",
+    "title": "Sustainable Military Building Design",
+    "iss": "Vacant 1",
+    "ts": "Brandon",
+    "proponent": "Ryan Murphy",
+    "cop": ""
+  },
+  {
+    "num": "245",
+    "title": "Operations Project Management",
+    "iss": "Vacant 1",
+    "ts": "Brian",
+    "proponent": "Heath Kruger",
+    "cop": ""
+  },
+  {
+    "num": "247",
+    "title": "Seismic Stability Of Earthen Dams",
+    "iss": "Brittany",
+    "ts": "Kelly",
+    "proponent": "Georgette Hlepas",
+    "cop": ""
+  },
+  {
+    "num": "249",
+    "title": "Geotech Earthquake Eng App",
+    "iss": "Brittany",
+    "ts": "Vacant",
+    "proponent": "Khaled Chowdhurry",
+    "cop": ""
+  },
+  {
+    "num": "250",
+    "title": "Seepage and Piping Analysis",
+    "iss": "Brittany",
+    "ts": "Kelly",
+    "proponent": "Georgette Hlepas",
+    "cop": ""
+  },
+  {
+    "num": "251",
+    "title": "Engineering Geology Application",
+    "iss": "Taneya",
+    "ts": "Neal",
+    "proponent": "April Fontaine",
+    "cop": ""
+  },
+  {
+    "num": "252",
+    "title": "1391 Processor",
+    "iss": "Brenda",
+    "ts": "Brandon",
+    "proponent": "Tammy Fletcher",
+    "cop": ""
+  },
+  {
+    "num": "253",
+    "title": "1391 Preparation",
+    "iss": "Vacant 2",
+    "ts": "John",
+    "proponent": "Tamitha Downey",
+    "cop": ""
+  },
+  {
+    "num": "254",
+    "title": "Budget Fundamentals",
+    "iss": "Bruce",
+    "ts": "Erica",
+    "proponent": "Rebecca Perez",
+    "cop": ""
+  },
+  {
+    "num": "256",
+    "title": "Sustain For NDAA",
+    "iss": "Vacant 1",
+    "ts": "Vacant",
+    "proponent": "Ed Citzler",
+    "cop": ""
+  },
+  {
+    "num": "257",
+    "title": "Concrete Maintenance and Repair",
+    "iss": "Brittany",
+    "ts": "Neal",
+    "proponent": "Jake Fall",
+    "cop": ""
+  },
+  {
+    "num": "259",
+    "title": "Diving Refresher",
+    "iss": "Keith",
+    "ts": "Brian",
+    "proponent": "Troy Larson",
+    "cop": ""
+  },
+  {
+    "num": "262",
+    "title": "Strength and Stability Of Constructed Slopes",
+    "iss": "Brittany",
+    "ts": "Kelly",
+    "proponent": "Georgette Hlepas",
+    "cop": ""
+  },
+  {
+    "num": "263",
+    "title": "Coastal Ecology",
+    "iss": "Jim",
+    "ts": "Brandon",
+    "proponent": "Deborah Scerno",
+    "cop": ""
+  },
+  {
+    "num": "270",
+    "title": "Economics for Planners",
+    "iss": "Bruce",
+    "ts": "Shay",
+    "proponent": "Susan Werning",
+    "cop": ""
+  },
+  {
+    "num": "272",
+    "title": "Wetlands Ecology Fundamentals",
+    "iss": "Anthony",
+    "ts": "Brandon",
+    "proponent": "Kathryn Mccain",
+    "cop": ""
+  },
+  {
+    "num": "278",
+    "title": "Power System Design for Civil Works",
+    "iss": "Jim",
+    "ts": "Shay",
+    "proponent": "Shane Nieukirk",
+    "cop": ""
+  },
+  {
+    "num": "280",
+    "title": "Ecosystem Restoration",
+    "iss": "Anthony",
+    "ts": "Brandon",
+    "proponent": "Kathryn Mccain",
+    "cop": ""
+  },
+  {
+    "num": "281",
+    "title": "Riparian Zone Eco Restor Mgt",
+    "iss": "Vacant 1",
+    "ts": "Brandon",
+    "proponent": "Mindy Simmons",
+    "cop": ""
+  },
+  {
+    "num": "285",
+    "title": "Streambank Erosion and Protection",
+    "iss": "Shaz",
+    "ts": "Gladys",
+    "proponent": "Sean Smith",
+    "cop": ""
+  },
+  {
+    "num": "295",
+    "title": "Topographic Surveying Fundamentals",
+    "iss": "Taneya",
+    "ts": "Neal",
+    "proponent": "Mack McCarty",
+    "cop": ""
+  },
+  {
+    "num": "296",
+    "title": "LiDAR Fundamentals",
+    "iss": "Taneya",
+    "ts": "Neal",
+    "proponent": "Jacob Watts",
+    "cop": ""
+  },
+  {
+    "num": "299",
+    "title": "Cultural Resources",
+    "iss": "Amy",
+    "ts": "Erica",
+    "proponent": "Nancy Brighton",
+    "cop": ""
+  },
+  {
+    "num": "304",
+    "title": "Hyd Design of Nav Locks",
+    "iss": "Shaz",
+    "ts": "Gladys",
+    "proponent": "Sean Smith",
+    "cop": ""
+  },
+  {
+    "num": "305",
+    "title": "MCACES II Fundamentals",
+    "iss": "Bruce",
+    "ts": "Gladys",
+    "proponent": "Mukesh Kumar",
+    "cop": ""
+  },
+  {
+    "num": "312",
+    "title": "MCACES II Advanced",
+    "iss": "Bruce",
+    "ts": "Gladys",
+    "proponent": "Mukesh Kumar",
+    "cop": ""
+  },
+  {
+    "num": "315",
+    "title": "Project Partnership Agreements Development",
+    "iss": "Vacant 2",
+    "ts": "Brian",
+    "proponent": "Jeffery Strahan",
+    "cop": ""
+  },
+  {
+    "num": "318",
+    "title": "O&M Contracts Advanced",
+    "iss": "Bruce",
+    "ts": "Brian",
+    "proponent": "Jerry Fulton",
+    "cop": ""
+  },
+  {
+    "num": "320",
+    "title": "Hydra Hydro for Dam Studies",
+    "iss": "Shaz",
+    "ts": "Gladys",
+    "proponent": "Sean Smith",
+    "cop": ""
+  },
+  {
+    "num": "322",
+    "title": "Regulatory Intermediate A",
+    "iss": "Taneya",
+    "ts": "Brandon",
+    "proponent": "Linda Speerstra",
+    "cop": ""
+  },
+  {
+    "num": "323",
+    "title": "Regulatory Intermediate B",
+    "iss": "Taneya",
+    "ts": "Brandon",
+    "proponent": "Linda Speerstra",
+    "cop": ""
+  },
+  {
+    "num": "324",
+    "title": "Visitor Assistance Mngmt and Policy",
+    "iss": "Vacant 1",
+    "ts": "Erica",
+    "proponent": "Heath Kruger",
+    "cop": ""
+  },
+  {
+    "num": "325",
+    "title": "Regulatory Advanced",
+    "iss": "Taneya",
+    "ts": "Brandon",
+    "proponent": "Linda Speerstra",
+    "cop": ""
+  },
+  {
+    "num": "327",
+    "title": "HVAC Systems Commissioning",
+    "iss": "Brenda",
+    "ts": "Shay",
+    "proponent": "Tim Gordon",
+    "cop": ""
+  },
+  {
+    "num": "328",
+    "title": "Partnerships In Natural Resource Management",
+    "iss": "Bruce",
+    "ts": "Brian",
+    "proponent": "Heather Burke",
+    "cop": ""
+  },
+  {
+    "num": "329",
+    "title": "Mechanical Design for Locks and Dams",
+    "iss": "Bruce",
+    "ts": "Shay",
+    "proponent": "Timothy Paulus",
+    "cop": ""
+  },
+  {
+    "num": "333",
+    "title": "Dredging Fundamentals",
+    "iss": "Anthony",
+    "ts": "Brandon",
+    "proponent": "Paul Clouse",
+    "cop": ""
+  },
+  {
+    "num": "340",
+    "title": "HVAC QV",
+    "iss": "Vacant 2",
+    "ts": "Shay",
+    "proponent": "Chris Battisti",
+    "cop": ""
+  },
+  {
+    "num": "342",
+    "title": "CE Contract Law",
+    "iss": "Vacant 2",
+    "ts": "Brian",
+    "proponent": "Matthew Keiser",
+    "cop": ""
+  },
+  {
+    "num": "343",
+    "title": "Hydraulic Steel Structures Fundamentals",
+    "iss": "Brittany",
+    "ts": "Brian",
+    "proponent": "Hien Duong",
+    "cop": ""
+  },
+  {
+    "num": "348",
+    "title": "Planning For Ecosystem Restoration",
+    "iss": "Anthony",
+    "ts": "Brandon",
+    "proponent": "Kathryn Mccain",
+    "cop": ""
+  },
+  {
+    "num": "349",
+    "title": "Risk Analysis WRP and M",
+    "iss": "Vacant 2",
+    "ts": "Brian",
+    "proponent": "Jeffery Strahan",
+    "cop": ""
+  },
+  {
+    "num": "352",
+    "title": "Adv 2D with HEC RAS",
+    "iss": "Shaz",
+    "ts": "Gladys",
+    "proponent": "Sean Smith",
+    "cop": ""
+  },
+  {
+    "num": "355",
+    "title": "Project Management In USACE",
+    "iss": "Brenda",
+    "ts": "Kelly",
+    "proponent": "Leanne Van Tuyl",
+    "cop": ""
+  },
+  {
+    "num": "356",
+    "title": "CERLA RCRA Process",
+    "iss": "Vacant 1",
+    "ts": "Sherry",
+    "proponent": "Mary Mangenot",
+    "cop": ""
+  },
+  {
+    "num": "358",
+    "title": "Civil Works Programming Process",
+    "iss": "Bruce",
+    "ts": "Steve",
+    "proponent": "Eddie Durant",
+    "cop": ""
+  },
+  {
+    "num": "360",
+    "title": "Electronic Security Systems Design",
+    "iss": "Jim",
+    "ts": "Neal",
+    "proponent": "Shane Nieukirk",
+    "cop": ""
+  },
+  {
+    "num": "366",
+    "title": "Construction Contract Administration",
+    "iss": "Bruce",
+    "ts": "Steve",
+    "proponent": "Bryan McCabe",
+    "cop": ""
+  },
+  {
+    "num": "368",
+    "title": "Negotiating Construction Contract Modifications",
+    "iss": "Vacant 2",
+    "ts": "Steve",
+    "proponent": "Andrea Hinkle",
+    "cop": ""
+  },
+  {
+    "num": "369",
+    "title": "HEC-HMS Advanced Applications",
+    "iss": "Shaz",
+    "ts": "Gladys",
+    "proponent": "Sean Smith",
+    "cop": ""
+  },
+  {
+    "num": "370",
+    "title": "Regulatory Intermediate C",
+    "iss": "Taneya",
+    "ts": "Brandon",
+    "proponent": "Linda Speerstra",
+    "cop": ""
+  },
+  {
+    "num": "373",
+    "title": "Electrical Design I Fundamentals",
+    "iss": "Jim",
+    "ts": "Shay",
+    "proponent": "Nic Ivy",
+    "cop": ""
+  },
+  {
+    "num": "374",
+    "title": "Electrical Design Advanced",
+    "iss": "Jim",
+    "ts": "Shay",
+    "proponent": "Nic Ivy",
+    "cop": ""
+  },
+  {
+    "num": "376",
+    "title": "Mngmt of HydroPower",
+    "iss": "Vacant 2",
+    "ts": "Brandon",
+    "proponent": "Daniel Rabon",
+    "cop": ""
+  },
+  {
+    "num": "391",
+    "title": "HVAC Systems Design",
+    "iss": "Brenda",
+    "ts": "Shay",
+    "proponent": "Tim Gordon",
+    "cop": ""
+  },
+  {
+    "num": "394",
+    "title": "Streambank Protection Advanced",
+    "iss": "Shaz",
+    "ts": "Gladys",
+    "proponent": "Sean Smith",
+    "cop": ""
+  },
+  {
+    "num": "398",
+    "title": "Environmental Regulations Practical Application",
+    "iss": "Vacant 1",
+    "ts": "Sherry",
+    "proponent": "Mary Mangenot",
+    "cop": ""
+  },
+  {
+    "num": "402",
+    "title": "Project Management Professional PMP Exam Prep",
+    "iss": "Brenda",
+    "ts": "Kelly",
+    "proponent": "Leanne Van Tuyl",
+    "cop": ""
+  },
+  {
+    "num": "406",
+    "title": "Plan Formulation and Evaluation Capstone",
+    "iss": "Amy",
+    "ts": "Erica",
+    "proponent": "Monique Savage",
+    "cop": ""
+  },
+  {
+    "num": "407",
+    "title": "Public Involvement and Team Building In Planning",
+    "iss": "Taneya",
+    "ts": "Brandon",
+    "proponent": "Amy Thompson",
+    "cop": ""
+  },
+  {
+    "num": "408",
+    "title": "Environmental Considerations In Civil Works",
+    "iss": "Jim",
+    "ts": "Erica",
+    "proponent": "Mary Brandreth",
+    "cop": ""
+  },
+  {
+    "num": "411",
+    "title": "Environmental Stewardship Fundamentals",
+    "iss": "Anthony",
+    "ts": "Gladys",
+    "proponent": "Tara Whitsel",
+    "cop": ""
+  },
+  {
+    "num": "412",
+    "title": "Lubrication Of Mechanical Equipment",
+    "iss": "Bruce",
+    "ts": "Shay",
+    "proponent": "Timothy Paulus",
+    "cop": ""
+  },
+  {
+    "num": "413",
+    "title": "Environmental Stewardship",
+    "iss": "Anthony",
+    "ts": "Vacant",
+    "proponent": "Tara Whitsel",
+    "cop": ""
+  },
+  {
+    "num": "425",
+    "title": "Design Build Construction",
+    "iss": "Shaz",
+    "ts": "Gladys",
+    "proponent": "Jeremy Cobb",
+    "cop": ""
+  },
+  {
+    "num": "426",
+    "title": "Wetland River Function and Ecology",
+    "iss": "Keith",
+    "ts": "Brandon",
+    "proponent": "Jesse Granet",
+    "cop": ""
+  },
+  {
+    "num": "429",
+    "title": "HW Manifest DOT Recertification",
+    "iss": "Vacant 1",
+    "ts": "Kelly",
+    "proponent": "Mary Mangenot",
+    "cop": ""
+  },
+  {
+    "num": "430",
+    "title": "Radioactive Waste Transport for DOT Recertification",
+    "iss": "Vacant 1",
+    "ts": "Kelly",
+    "proponent": "Mary Mangenot",
+    "cop": ""
+  },
+  {
+    "num": "435",
+    "title": "Info and Comm Tech",
+    "iss": "Jim",
+    "ts": "Vacant",
+    "proponent": "Nic Ivy",
+    "cop": ""
+  },
+  {
+    "num": "543",
+    "title": "Advanced Scheduling",
+    "iss": "Brittany",
+    "ts": "Kelly",
+    "proponent": "Dusty Carroll",
+    "cop": ""
+  },
+  {
+    "num": "600",
+    "title": "Sustainability for PMs",
+    "iss": "Vacant 1",
+    "ts": "Vacant",
+    "proponent": "Ed Citzler",
+    "cop": ""
+  },
+  {
+    "num": "602",
+    "title": "Grouting Basic",
+    "iss": "Brittany",
+    "ts": "",
+    "proponent": "Georgette Hlepas",
+    "cop": ""
+  },
+  {
+    "num": "603",
+    "title": "Operational Cond Assess DL",
+    "iss": "Vacant 2",
+    "ts": "Vacant",
+    "proponent": "Vacant",
+    "cop": ""
+  },
+  {
+    "num": "604",
+    "title": "HEC-RAS 2025 DL",
+    "iss": "Shaz",
+    "ts": "Vacant",
+    "proponent": "Sean Smith",
+    "cop": ""
+  },
+  {
+    "num": "607",
+    "title": "Supply Management",
+    "iss": "Amy",
+    "ts": "Vacant",
+    "proponent": "Keith Weiner",
+    "cop": ""
+  },
+  {
+    "num": "608",
+    "title": "Transportation Management",
+    "iss": "Amy",
+    "ts": "Vacant",
+    "proponent": "Keith Weiner",
+    "cop": ""
+  },
+  {
+    "num": "610",
+    "title": "Analysis for Flood Risk Management Adv",
+    "iss": "Brittany",
+    "ts": "Vacant",
+    "proponent": "Rich Nugent",
+    "cop": ""
+  }
+]
