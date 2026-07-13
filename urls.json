@@ -28,5 +28,47 @@
     "category": "HR",
     "label": "MyBiz+",
     "url": "https://compo.dcpds.cpms.osd.mil/"
+  },
+  {
+    "id": "home_hnc_home_page_1783960676881",
+    "category": "Home",
+    "label": "HNC Home Page",
+    "url": "https://usace.dps.mil/sites/INTRA-HNC"
+  },
+  {
+    "id": "training_professional_development_ted_1783963096849",
+    "category": "Training/ Professional Development",
+    "label": "TED",
+    "url": "https://ted.army.mil/ted/logon.cfm"
+  },
+  {
+    "id": "training_professional_development_atis_1783963145145",
+    "category": "Training/ Professional Development",
+    "label": "ATIS",
+    "url": "https://learn.atis.army.mil/moodle/"
+  },
+  {
+    "id": "training_professional_development_armyignited_1783963182701",
+    "category": "Training/ Professional Development",
+    "label": "ArmyIgnited",
+    "url": "https://www.armyignited.army.mil/student/public/welcome"
+  },
+  {
+    "id": "training_professional_development_atrrs_1783963219976",
+    "category": "Training/ Professional Development",
+    "label": "ATRRS",
+    "url": "https://www.atrrs.army.mil/Default.aspx"
+  },
+  {
+    "id": "training_professional_development_udemy_1783963257178",
+    "category": "Training/ Professional Development",
+    "label": "UDEMY",
+    "url": "https://armyciv.udemy.com/organization/home/"
+  },
+  {
+    "id": "training_professional_development_dau_1783963298102",
+    "category": "Training/ Professional Development",
+    "label": "DAU",
+    "url": "https://www.dau.edu/"
   }
 ]
