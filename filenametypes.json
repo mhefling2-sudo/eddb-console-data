@@ -758,5 +758,29 @@
         "type": "lastname"
       }
     ]
+  },
+  {
+    "id": "admin_milestone_plan_1784561531432",
+    "category": "Admin",
+    "docName": "Milestone Plan",
+    "courseRelated": true,
+    "template": "{CrsNum}_{FY}_MilestonePlan_{ISS}",
+    "variables": [
+      {
+        "token": "CrsNum",
+        "label": "CrsNum",
+        "type": "course"
+      },
+      {
+        "token": "FY",
+        "label": "FY",
+        "type": "fy"
+      },
+      {
+        "token": "ISS",
+        "label": "ISS",
+        "type": "lastname"
+      }
+    ]
   }
 ]
