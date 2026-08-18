@@ -86,7 +86,8 @@
     "iss": "Amy",
     "ts": "Vacant",
     "proponent": "Jason Walsh",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "015",
@@ -301,7 +302,8 @@
     "iss": "Shaz",
     "ts": "Vacant",
     "proponent": "Sean Smith",
-    "cop": ""
+    "cop": "",
+    "type": "Training Agent"
   },
   {
     "num": "068",
@@ -417,7 +419,8 @@
     "iss": "Jim",
     "ts": "Steve",
     "proponent": "Matthew Parks",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "084",
@@ -839,7 +842,8 @@
     "iss": "Jim",
     "ts": "Vacant",
     "proponent": "Shane Nieukirk",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "203",
@@ -881,9 +885,10 @@
     "num": "210",
     "title": "Flood Risk Management Studies Adv",
     "iss": "Bruce",
-    "ts": "Brittany",
+    "ts": "Vacant",
     "proponent": "Susan Werning",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "211",
@@ -1116,7 +1121,8 @@
     "iss": "Bruce",
     "ts": "Shay",
     "proponent": "Susan Werning",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "272",
@@ -1601,7 +1607,8 @@
     "iss": "Jim",
     "ts": "Vacant",
     "proponent": "Nic Ivy",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "543",
@@ -1630,14 +1637,6 @@
     "type": "In-House"
   },
   {
-    "num": "603",
-    "title": "Operational Cond Assess DL",
-    "iss": "Vacant 2",
-    "ts": "Vacant",
-    "proponent": "Vacant",
-    "cop": ""
-  },
-  {
     "num": "604",
     "title": "HEC-RAS 2025 DL",
     "iss": "Shaz",
@@ -1652,7 +1651,8 @@
     "iss": "Amy",
     "ts": "Vacant",
     "proponent": "Keith Weiner",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "608",
@@ -1660,7 +1660,8 @@
     "iss": "Amy",
     "ts": "Vacant",
     "proponent": "Keith Weiner",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "610",
