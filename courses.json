@@ -452,7 +452,8 @@
     "iss": "Taneya",
     "ts": "Brandon",
     "proponent": "Linda Speerstra",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "101",
@@ -460,7 +461,8 @@
     "iss": "Anthony",
     "ts": "Brandon",
     "proponent": "Donna Smigel",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "104",
@@ -468,7 +470,8 @@
     "iss": "Jim",
     "ts": "Brandon",
     "proponent": "Stacy Langsdale",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "106",
@@ -476,7 +479,8 @@
     "iss": "Jim",
     "ts": "Erica",
     "proponent": "Nic Ivy",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "110",
@@ -484,7 +488,8 @@
     "iss": "Shaz",
     "ts": "Gladys",
     "proponent": "Mandy Bianchini",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "111",
@@ -501,7 +506,8 @@
     "iss": "Shaz",
     "ts": "Gladys",
     "proponent": "Sean Smith",
-    "cop": ""
+    "cop": "",
+    "type": "Training Agent"
   },
   {
     "num": "115",
@@ -509,7 +515,8 @@
     "iss": "Brittany",
     "ts": "Neal",
     "proponent": "Jake Fall",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "116",
@@ -517,7 +524,8 @@
     "iss": "Brittany",
     "ts": "Brian",
     "proponent": "Hien Duong",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "118",
@@ -525,7 +533,8 @@
     "iss": "Bruce",
     "ts": "Gladys",
     "proponent": "Mukesh Kumar",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "119",
@@ -533,7 +542,8 @@
     "iss": "Bruce",
     "ts": "Brandon",
     "proponent": "Timothy Dunn",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "121",
@@ -541,7 +551,8 @@
     "iss": "Amy",
     "ts": "Shay",
     "proponent": "Enrique Godinez",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "123",
@@ -549,7 +560,8 @@
     "iss": "Shaz",
     "ts": "Gladys",
     "proponent": "Sean Smith",
-    "cop": ""
+    "cop": "",
+    "type": "Training Agent"
   },
   {
     "num": "126",
@@ -557,7 +569,8 @@
     "iss": "Brittany",
     "ts": "Kelly",
     "proponent": "Ryan Murphy",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "143",
@@ -565,7 +578,8 @@
     "iss": "Brittany",
     "ts": "Kelly",
     "proponent": "Dusty Carroll",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "144",
@@ -573,7 +587,8 @@
     "iss": "Amy",
     "ts": "Shay",
     "proponent": "Enrique Godinez",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "147",
@@ -581,7 +596,8 @@
     "iss": "Jim",
     "ts": "Erica",
     "proponent": "Heath Kruger",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "152",
@@ -589,7 +605,8 @@
     "iss": "Shaz",
     "ts": "Gladys",
     "proponent": "Sean Smith",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "153",
@@ -606,7 +623,8 @@
     "iss": "Shaz",
     "ts": "Gladys",
     "proponent": "Sean Smith",
-    "cop": ""
+    "cop": "",
+    "type": "Training Agent"
   },
   {
     "num": "161",
@@ -614,7 +632,8 @@
     "iss": "Shaz",
     "ts": "Gladys",
     "proponent": "Sean Smith",
-    "cop": ""
+    "cop": "",
+    "type": "Training Agent"
   },
   {
     "num": "162",
@@ -622,7 +641,8 @@
     "iss": "Brittany",
     "ts": "Brian",
     "proponent": "Hien Duong",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "164",
@@ -630,7 +650,8 @@
     "iss": "Shaz",
     "ts": "Gladys",
     "proponent": "Sean Smith",
-    "cop": ""
+    "cop": "",
+    "type": "Training Agent"
   },
   {
     "num": "167",
@@ -638,7 +659,8 @@
     "iss": "Taneya",
     "ts": "Sherry",
     "proponent": "Jacob Watts",
-    "cop": ""
+    "cop": "",
+    "type": "Training Agent"
   },
   {
     "num": "169",
@@ -646,7 +668,8 @@
     "iss": "Jim",
     "ts": "Neal",
     "proponent": "Deborah Scerno",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "170",
@@ -654,7 +677,8 @@
     "iss": "Anthony",
     "ts": "Brandon",
     "proponent": "Lance Wood",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "171",
@@ -662,7 +686,8 @@
     "iss": "Anthony",
     "ts": "Vacant",
     "proponent": "David Sperry",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "172",
@@ -670,7 +695,8 @@
     "iss": "Keith",
     "ts": "Brian",
     "proponent": "Troy Larson",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "175",
@@ -678,7 +704,8 @@
     "iss": "Keith",
     "ts": "Brian",
     "proponent": "Troy Larson",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "178",
@@ -686,7 +713,8 @@
     "iss": "Shaz",
     "ts": "Gladys",
     "proponent": "Sean Smith",
-    "cop": ""
+    "cop": "",
+    "type": "Training Agent"
   },
   {
     "num": "180",
@@ -703,7 +731,8 @@
     "iss": "Bruce",
     "ts": "Gladys",
     "proponent": "Mukesh Kumar",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "182",
@@ -720,7 +749,8 @@
     "iss": "Taneya",
     "ts": "Erica",
     "proponent": "Jonathan Todd",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "185",
@@ -728,7 +758,8 @@
     "iss": "Brenda",
     "ts": "Steve",
     "proponent": "Jansen Moon",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "187",
@@ -736,7 +767,8 @@
     "iss": "Taneya",
     "ts": "Neal",
     "proponent": "Jacob Watts",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "188",
@@ -744,7 +776,8 @@
     "iss": "Shaz",
     "ts": "Gladys",
     "proponent": "Sean Smith",
-    "cop": ""
+    "cop": "",
+    "type": "Training Agent"
   },
   {
     "num": "192",
@@ -752,7 +785,8 @@
     "iss": "Keith",
     "ts": "Brandon",
     "proponent": "Jesse Granet",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "196",
@@ -760,7 +794,8 @@
     "iss": "Taneya",
     "ts": "Sherry",
     "proponent": "Jacob Watts",
-    "cop": ""
+    "cop": "",
+    "type": "Training Agent"
   },
   {
     "num": "202",
@@ -776,7 +811,8 @@
     "iss": "Taneya",
     "ts": "Sherry",
     "proponent": "Mack McCarty",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "205",
@@ -784,7 +820,8 @@
     "iss": "Taneya",
     "ts": "Sherry",
     "proponent": "Jacob Watts",
-    "cop": ""
+    "cop": "",
+    "type": "Training Agent"
   },
   {
     "num": "208",
@@ -792,7 +829,8 @@
     "iss": "Taneya",
     "ts": "Shay",
     "proponent": "Martin Borger",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "209",
@@ -800,7 +838,8 @@
     "iss": "Shaz",
     "ts": "Gladys",
     "proponent": "Sean Smith",
-    "cop": ""
+    "cop": "",
+    "type": "Training Agent"
   },
   {
     "num": "210",
@@ -816,7 +855,8 @@
     "iss": "Bruce",
     "ts": "Brandon",
     "proponent": "Keith King",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "215",
@@ -824,7 +864,8 @@
     "iss": "Amy",
     "ts": "Brian",
     "proponent": "Jason Walsh",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "218",
@@ -832,7 +873,8 @@
     "iss": "Shaz",
     "ts": "Gladys",
     "proponent": "Sean Smith",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "220",
@@ -840,7 +882,8 @@
     "iss": "Bruce",
     "ts": "Gladys",
     "proponent": "Mukesh Kumar",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "223",
@@ -848,7 +891,8 @@
     "iss": "Anthony",
     "ts": "Sherry",
     "proponent": "Mary Mangenot",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "224",
@@ -856,7 +900,8 @@
     "iss": "Brittany",
     "ts": "Gladys",
     "proponent": "Tyler White",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "226",
@@ -864,7 +909,8 @@
     "iss": "Anthony",
     "ts": "Sherry",
     "proponent": "Mary Mangenot",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "227",
@@ -872,7 +918,8 @@
     "iss": "Shaz",
     "ts": "Erica",
     "proponent": "Gary Prediger",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "235",
@@ -880,7 +927,8 @@
     "iss": "Amy",
     "ts": "Vacant",
     "proponent": "Jason Walsh",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "236",
@@ -888,7 +936,8 @@
     "iss": "Amy",
     "ts": "Brian",
     "proponent": "Jason Walsh",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "237",
@@ -896,7 +945,8 @@
     "iss": "Amy",
     "ts": "Brian",
     "proponent": "Jason Walsh",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "244",
@@ -904,7 +954,8 @@
     "iss": "Brittany",
     "ts": "Brandon",
     "proponent": "Ryan Murphy",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "245",
@@ -912,7 +963,8 @@
     "iss": "Jim",
     "ts": "Brian",
     "proponent": "Heath Kruger",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "247",
@@ -920,7 +972,8 @@
     "iss": "Brittany",
     "ts": "Kelly",
     "proponent": "Georgette Hlepas",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "249",
@@ -928,7 +981,8 @@
     "iss": "Brittany",
     "ts": "Vacant",
     "proponent": "Khaled Chowdhurry",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "250",
@@ -936,7 +990,8 @@
     "iss": "Brittany",
     "ts": "Kelly",
     "proponent": "Georgette Hlepas",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "251",
@@ -953,7 +1008,8 @@
     "iss": "Shaz",
     "ts": "Brandon",
     "proponent": "Tammy Fletcher",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "253",
@@ -961,7 +1017,8 @@
     "iss": "Brenda",
     "ts": "John",
     "proponent": "Tamitha Downey",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "254",
@@ -969,15 +1026,17 @@
     "iss": "Bruce",
     "ts": "Erica",
     "proponent": "Rebecca Perez",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "256",
     "title": "Sustain For NDAA",
     "iss": "Vacant 1",
     "ts": "Vacant",
-    "proponent": "Ed Citzler",
-    "cop": ""
+    "proponent": "Vacant",
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "257",
@@ -985,7 +1044,8 @@
     "iss": "Brittany",
     "ts": "Neal",
     "proponent": "Jake Fall",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "259",
@@ -993,7 +1053,8 @@
     "iss": "Keith",
     "ts": "Brian",
     "proponent": "Troy Larson",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "262",
@@ -1001,7 +1062,8 @@
     "iss": "Brittany",
     "ts": "Kelly",
     "proponent": "Georgette Hlepas",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "263",
@@ -1009,7 +1071,8 @@
     "iss": "Jim",
     "ts": "Brandon",
     "proponent": "Deborah Scerno",
-    "cop": ""
+    "cop": "",
+    "type": "Training Agent"
   },
   {
     "num": "270",
@@ -1025,7 +1088,8 @@
     "iss": "Anthony",
     "ts": "Brandon",
     "proponent": "Kathryn Mccain",
-    "cop": ""
+    "cop": "",
+    "type": "Training Agent"
   },
   {
     "num": "278",
@@ -1033,7 +1097,8 @@
     "iss": "Jim",
     "ts": "Shay",
     "proponent": "Shane Nieukirk",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "280",
@@ -1041,7 +1106,8 @@
     "iss": "Anthony",
     "ts": "Brandon",
     "proponent": "Kathryn Mccain",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "281",
@@ -1049,7 +1115,8 @@
     "iss": "Keith",
     "ts": "Brandon",
     "proponent": "Mindy Simmons",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "285",
@@ -1057,7 +1124,8 @@
     "iss": "Shaz",
     "ts": "Gladys",
     "proponent": "Sean Smith",
-    "cop": ""
+    "cop": "",
+    "type": "Training Agent"
   },
   {
     "num": "295",
@@ -1065,7 +1133,8 @@
     "iss": "Taneya",
     "ts": "Neal",
     "proponent": "Mack McCarty",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "296",
@@ -1073,7 +1142,8 @@
     "iss": "Taneya",
     "ts": "Neal",
     "proponent": "Jacob Watts",
-    "cop": ""
+    "cop": "",
+    "type": "Training Agent"
   },
   {
     "num": "299",
@@ -1081,7 +1151,8 @@
     "iss": "Amy",
     "ts": "Erica",
     "proponent": "Nancy Brighton",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "304",
@@ -1089,7 +1160,8 @@
     "iss": "Shaz",
     "ts": "Gladys",
     "proponent": "Sean Smith",
-    "cop": ""
+    "cop": "",
+    "type": "Training Agent"
   },
   {
     "num": "305",
@@ -1097,7 +1169,8 @@
     "iss": "Bruce",
     "ts": "Gladys",
     "proponent": "Mukesh Kumar",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "312",
@@ -1105,7 +1178,8 @@
     "iss": "Bruce",
     "ts": "Gladys",
     "proponent": "Mukesh Kumar",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "315",
@@ -1113,7 +1187,8 @@
     "iss": "Amy",
     "ts": "Brian",
     "proponent": "Jeffery Strahan",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "318",
@@ -1121,7 +1196,8 @@
     "iss": "Bruce",
     "ts": "Brian",
     "proponent": "Jerry Fulton",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "320",
@@ -1129,7 +1205,8 @@
     "iss": "Shaz",
     "ts": "Gladys",
     "proponent": "Sean Smith",
-    "cop": ""
+    "cop": "",
+    "type": "Training Agent"
   },
   {
     "num": "322",
@@ -1137,7 +1214,8 @@
     "iss": "Taneya",
     "ts": "Brandon",
     "proponent": "Linda Speerstra",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "323",
@@ -1145,7 +1223,8 @@
     "iss": "Taneya",
     "ts": "Brandon",
     "proponent": "Linda Speerstra",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "324",
@@ -1153,7 +1232,8 @@
     "iss": "Jim",
     "ts": "Erica",
     "proponent": "Heath Kruger",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "325",
@@ -1161,7 +1241,8 @@
     "iss": "Taneya",
     "ts": "Brandon",
     "proponent": "Linda Speerstra",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "327",
@@ -1177,7 +1258,8 @@
     "iss": "Bruce",
     "ts": "Brian",
     "proponent": "Heather Burke",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "329",
@@ -1185,7 +1267,8 @@
     "iss": "Bruce",
     "ts": "Shay",
     "proponent": "Timothy Paulus",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "333",
@@ -1193,7 +1276,8 @@
     "iss": "Anthony",
     "ts": "Brandon",
     "proponent": "Paul Clouse",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "340",
@@ -1210,7 +1294,8 @@
     "iss": "Shaz",
     "ts": "Brian",
     "proponent": "Matthew Keiser",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "343",
@@ -1218,7 +1303,8 @@
     "iss": "Brittany",
     "ts": "Brian",
     "proponent": "Hien Duong",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "348",
@@ -1226,7 +1312,8 @@
     "iss": "Anthony",
     "ts": "Brandon",
     "proponent": "Kathryn Mccain",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "349",
@@ -1234,7 +1321,8 @@
     "iss": "Amy",
     "ts": "Brian",
     "proponent": "Jeffery Strahan",
-    "cop": ""
+    "cop": "",
+    "type": "Training Agent"
   },
   {
     "num": "352",
@@ -1242,7 +1330,8 @@
     "iss": "Shaz",
     "ts": "Gladys",
     "proponent": "Sean Smith",
-    "cop": ""
+    "cop": "",
+    "type": "Training Agent"
   },
   {
     "num": "355",
@@ -1250,7 +1339,8 @@
     "iss": "Brenda",
     "ts": "Kelly",
     "proponent": "Leanne Van Tuyl",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "356",
@@ -1258,7 +1348,8 @@
     "iss": "Anthony",
     "ts": "Sherry",
     "proponent": "Mary Mangenot",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "358",
@@ -1266,7 +1357,8 @@
     "iss": "Bruce",
     "ts": "Steve",
     "proponent": "Eddie Durant",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "360",
@@ -1274,7 +1366,8 @@
     "iss": "Jim",
     "ts": "Neal",
     "proponent": "Shane Nieukirk",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "366",
@@ -1300,7 +1393,8 @@
     "iss": "Shaz",
     "ts": "Gladys",
     "proponent": "Sean Smith",
-    "cop": ""
+    "cop": "",
+    "type": "Training Agent"
   },
   {
     "num": "370",
@@ -1308,7 +1402,8 @@
     "iss": "Taneya",
     "ts": "Brandon",
     "proponent": "Linda Speerstra",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "373",
@@ -1316,7 +1411,8 @@
     "iss": "Jim",
     "ts": "Shay",
     "proponent": "Nic Ivy",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "374",
@@ -1324,7 +1420,8 @@
     "iss": "Jim",
     "ts": "Shay",
     "proponent": "Nic Ivy",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "376",
@@ -1332,7 +1429,8 @@
     "iss": "Anthony",
     "ts": "Brandon",
     "proponent": "Daniel Rabon",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "391",
@@ -1340,7 +1438,8 @@
     "iss": "Brenda",
     "ts": "Shay",
     "proponent": "Tim Gordon",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "394",
@@ -1348,7 +1447,8 @@
     "iss": "Shaz",
     "ts": "Gladys",
     "proponent": "Sean Smith",
-    "cop": ""
+    "cop": "",
+    "type": "Training Agent"
   },
   {
     "num": "398",
@@ -1356,7 +1456,8 @@
     "iss": "Anthony",
     "ts": "Sherry",
     "proponent": "Mary Mangenot",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "402",
@@ -1364,7 +1465,8 @@
     "iss": "Brenda",
     "ts": "Kelly",
     "proponent": "Leanne Van Tuyl",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "406",
@@ -1372,7 +1474,8 @@
     "iss": "Amy",
     "ts": "Erica",
     "proponent": "Monique Savage",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "407",
@@ -1389,7 +1492,8 @@
     "iss": "Jim",
     "ts": "Erica",
     "proponent": "Mary Brandreth",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "411",
@@ -1397,7 +1501,8 @@
     "iss": "Anthony",
     "ts": "Gladys",
     "proponent": "Tara Whitsel",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "412",
@@ -1405,7 +1510,8 @@
     "iss": "Bruce",
     "ts": "Shay",
     "proponent": "Timothy Paulus",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "413",
@@ -1413,7 +1519,8 @@
     "iss": "Anthony",
     "ts": "Vacant",
     "proponent": "Tara Whitsel",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "425",
@@ -1421,7 +1528,8 @@
     "iss": "Shaz",
     "ts": "Gladys",
     "proponent": "Jeremy Cobb",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "426",
@@ -1429,7 +1537,8 @@
     "iss": "Keith",
     "ts": "Brandon",
     "proponent": "Jesse Granet",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "429",
@@ -1437,7 +1546,8 @@
     "iss": "Anthony",
     "ts": "Kelly",
     "proponent": "Mary Mangenot",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "430",
@@ -1445,7 +1555,8 @@
     "iss": "Anthony",
     "ts": "Kelly",
     "proponent": "Mary Mangenot",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "435",
@@ -1461,14 +1572,15 @@
     "iss": "Brittany",
     "ts": "Kelly",
     "proponent": "Dusty Carroll",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "600",
     "title": "Sustainability for PMs",
     "iss": "Vacant 1",
     "ts": "Vacant",
-    "proponent": "Ed Citzler",
+    "proponent": "Vacant",
     "cop": ""
   },
   {
@@ -1477,7 +1589,8 @@
     "iss": "Brittany",
     "ts": "",
     "proponent": "Georgette Hlepas",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "603",
@@ -1493,7 +1606,8 @@
     "iss": "Shaz",
     "ts": "Vacant",
     "proponent": "Sean Smith",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "607",
