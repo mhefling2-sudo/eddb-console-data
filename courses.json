@@ -94,7 +94,8 @@
     "iss": "Jim",
     "ts": "Sherry",
     "proponent": "Raul Alonso",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "021",
@@ -102,7 +103,8 @@
     "iss": "Brittany",
     "ts": "Neal",
     "proponent": "Jake Fall",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "024",
@@ -110,7 +112,8 @@
     "iss": "Bruce",
     "ts": "Gladys",
     "proponent": "Mukesh Kumar",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "026",
@@ -118,7 +121,8 @@
     "iss": "Brittany",
     "ts": "Kelly",
     "proponent": "Georgette Hlepas",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "027",
@@ -126,7 +130,8 @@
     "iss": "Brittany",
     "ts": "Brittany",
     "proponent": "Hien Duong",
-    "cop": ""
+    "cop": "",
+    "type": "Contractor"
   },
   {
     "num": "028",
@@ -134,7 +139,8 @@
     "iss": "Taneya",
     "ts": "Brian",
     "proponent": "Jacob Davis",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "029",
@@ -151,7 +157,8 @@
     "iss": "Taneya",
     "ts": "Brian",
     "proponent": "Rich Varuso",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "032",
@@ -159,7 +166,8 @@
     "iss": "Keith",
     "ts": "Brandon",
     "proponent": "Marty Werdebaugh",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "033",
@@ -167,7 +175,8 @@
     "iss": "Anthony",
     "ts": "Shay",
     "proponent": "Vu Nguyen",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "035",
@@ -175,7 +184,8 @@
     "iss": "Keith",
     "ts": "Brian",
     "proponent": "Troy Larson",
-    "cop": ""
+    "cop": "",
+    "type": "Contractor"
   },
   {
     "num": "036",
@@ -183,7 +193,8 @@
     "iss": "Taneya",
     "ts": "Brian",
     "proponent": "Rich Varuso",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "037",
@@ -191,7 +202,8 @@
     "iss": "Keith",
     "ts": "Brian",
     "proponent": "Troy Larson",
-    "cop": ""
+    "cop": "",
+    "type": "Contractor"
   },
   {
     "num": "040",
@@ -199,7 +211,8 @@
     "iss": "Brittany",
     "ts": "Kelly",
     "proponent": "Georgette Hlepas",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "042",
@@ -207,7 +220,8 @@
     "iss": "Jim",
     "ts": "Shay",
     "proponent": "Shane Nieukirk",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "049",
@@ -224,7 +238,8 @@
     "iss": "Brittany",
     "ts": "Neal",
     "proponent": "Jake Fall",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "051",
@@ -232,7 +247,8 @@
     "iss": "Taneya",
     "ts": "Sherry",
     "proponent": "Mack McCarty",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "054",
@@ -240,7 +256,8 @@
     "iss": "Amy",
     "ts": "Gladys",
     "proponent": "Mark Pratt",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "056",
@@ -248,7 +265,8 @@
     "iss": "Taneya",
     "ts": "Sherry",
     "proponent": "Mack McCarty",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "058",
@@ -256,7 +274,8 @@
     "iss": "Shaz",
     "ts": "Gladys",
     "proponent": "Sean Smith",
-    "cop": ""
+    "cop": "",
+    "type": "Training Agent"
   },
   {
     "num": "059",
@@ -264,7 +283,8 @@
     "iss": "Bruce",
     "ts": "",
     "proponent": "Tyler Baggett",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "063",
@@ -272,7 +292,8 @@
     "iss": "Keith",
     "ts": "Vacant",
     "proponent": "Willie Eggleston",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "065",
@@ -288,7 +309,8 @@
     "iss": "Brenda",
     "ts": "Shay",
     "proponent": "Tim Gordon",
-    "cop": ""
+    "cop": "",
+    "type": "Contractor"
   },
   {
     "num": "069",
@@ -314,7 +336,8 @@
     "iss": "Anthony",
     "ts": "Steve",
     "proponent": "Samantha Ferrare",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "073",
@@ -322,7 +345,8 @@
     "iss": "Amy",
     "ts": "Shay",
     "proponent": "Enrique Godinez",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "074",
@@ -330,7 +354,8 @@
     "iss": "Brenda",
     "ts": "Shay",
     "proponent": "Tim Gordon",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "075",
@@ -338,7 +363,8 @@
     "iss": "Keith",
     "ts": "Brandon",
     "proponent": "Edmond Gauvreau",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "077",
@@ -346,7 +372,8 @@
     "iss": "Amy",
     "ts": "Erica",
     "proponent": "Nancy Brighton",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "078",
@@ -354,7 +381,8 @@
     "iss": "Jim",
     "ts": "Shay",
     "proponent": "Dawn Carney",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "079",
@@ -362,7 +390,8 @@
     "iss": "Amy",
     "ts": "Shay",
     "proponent": "Enrique Godinez",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "080",
@@ -370,7 +399,8 @@
     "iss": "Anthony",
     "ts": "Gladys",
     "proponent": "Mackenzie Searle",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "081",
@@ -378,7 +408,8 @@
     "iss": "Keith",
     "ts": "Brian",
     "proponent": "Troy Larson",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "082",
@@ -394,7 +425,8 @@
     "iss": "Brenda",
     "ts": "Sherry",
     "proponent": "Jennifer Henry",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "086",
@@ -402,7 +434,8 @@
     "iss": "Amy",
     "ts": "Erica",
     "proponent": "Stuart McLean",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "088",
@@ -428,7 +461,8 @@
     "iss": "Jim",
     "ts": "Brandon",
     "proponent": "Stacy Langsdale",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "093",
@@ -436,7 +470,8 @@
     "iss": "Bruce",
     "ts": "Brian",
     "proponent": "Christopher Kernan",
-    "cop": ""
+    "cop": "",
+    "type": "In-House"
   },
   {
     "num": "098",
@@ -444,7 +479,8 @@
     "iss": "Shaz",
     "ts": "Gladys",
     "proponent": "Sean Smith",
-    "cop": ""
+    "cop": "",
+    "type": "Training Agent"
   },
   {
     "num": "100",
